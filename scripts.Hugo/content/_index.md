@@ -6,13 +6,7 @@ weight = 20
 
 
 
-* [   tbq201709.jjj123.com 唐柏桥 ]({{< relref "tbq201709" >}})
-
-
-* [   tbq201707.jjj123.com 唐柏桥 ]({{< relref "tbq201707" >}})
-
-
-* [   tbq201705.jjj123.com 唐柏桥 ]({{< relref "tbq201705" >}})
+* [   tbq.jjj123.com 唐柏桥 ]({{< relref "tbq" >}})
 
 
 * [ 20170928  民主革命大会宣：中国民主革命之歌  ]({{< relref "20170928_jf4dgxjbotk" >}})
