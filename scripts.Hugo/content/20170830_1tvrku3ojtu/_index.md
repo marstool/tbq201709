@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170830_1tvrku3ojtu.mp4" >}}
 
-     民主革命大会倒计时，介绍大会筹备情况 
      https://www.youtube.com/watch?v=1tVrKU3OjtU 
      
+     民主革命大会倒计时，介绍大会筹备情况 

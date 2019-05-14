@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170928_jf4dgxjbotk.mp4" >}}
 
-     
      https://www.youtube.com/watch?v=jF4DgxJbOtk 
+     
      民主革命大会宣：中国民主革命之歌 
