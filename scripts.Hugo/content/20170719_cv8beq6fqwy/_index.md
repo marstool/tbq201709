@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170719_cv8beq6fqwy.mp4" >}}
 
+     埃及革命的发动者古奈姆演讲：人民的力量遠遠勝過執掌權力的人 
      The power of the people is much stronger than the people in the power (人民的力量遠遠勝過執掌權力的人). 
      https://www.youtube.com/watch?v=CV8beq6FqWY 
-     埃及革命的发动者古奈姆演讲：人民的力量遠遠勝過執掌權力的人 

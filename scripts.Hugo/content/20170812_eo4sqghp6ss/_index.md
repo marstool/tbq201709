@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170812_eo4sqghp6ss.mp4" >}}
 
-     https://www.youtube.com/watch?v=EO4sqGhP6ss 
      唐柏桥谈海外民主革命先驱彭明 戳穿中共对付海外民主革命斗士的伎俩 
      
+     https://www.youtube.com/watch?v=EO4sqGhP6ss 

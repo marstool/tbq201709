@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170906_7xuwrewklnu.mp4" >}}
 
-     呼吁营救维权勇士曹春生 
      
      https://www.youtube.com/watch?v=7xUwReWKlnU 
+     呼吁营救维权勇士曹春生 

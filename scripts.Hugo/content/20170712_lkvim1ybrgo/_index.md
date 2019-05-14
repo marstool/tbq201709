@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170712_lkvim1ybrgo.mp4" >}}
 
-     直播回放：郭宝胜唐柏桥对谈郭文贵曝光中共在美间谍网及自由灯塔访谈郭文贵 
-     
      https://www.youtube.com/watch?v=LKVIM1ybrgo 
+     
+     直播回放：郭宝胜唐柏桥对谈郭文贵曝光中共在美间谍网及自由灯塔访谈郭文贵 

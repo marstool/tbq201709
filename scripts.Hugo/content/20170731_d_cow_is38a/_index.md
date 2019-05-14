@@ -9,5 +9,5 @@ weight = 20
 {{< mymp4 mp4="20170731_d_cow_is38a.mp4" >}}
 
      https://www.youtube.com/watch?v=D Cow Is38A 
-     唐柏桥夏日之行7月31日直播视频：海外民运为什么逐渐走向衰落 
      
+     唐柏桥夏日之行7月31日直播视频：海外民运为什么逐渐走向衰落 

@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170819_rbbmojgvlow.mp4" >}}
 
-     唐柏桥谈革命与改良 及民主革命大会 
-     
      https://www.youtube.com/watch?v=rBbmOjGvlow 
+     
+     唐柏桥谈革命与改良 及民主革命大会 

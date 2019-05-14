@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170809_phxstochl4c.mp4" >}}
 
-     唐柏桥在教堂做见证 
-     https://www.youtube.com/watch?v=pHXSTochL4c 
      
+     https://www.youtube.com/watch?v=pHXSTochL4c 
+     唐柏桥在教堂做见证 
